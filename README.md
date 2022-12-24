@@ -1,1 +1,42 @@
 # mythicalmirana
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mythical Mirana</title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon1.ico">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap" rel="stylesheet">
+    <style> @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap'); </style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap" rel="stylesheet">
+    <style> @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap'); </style>
+</head>
+<body>
+    <div class="heading">
+        <h1>Mythical Mirana Webshop</h1>
+        <h3><em>Shop everything mythical</em></h3>
+    </div>
+    <h2>Ready for launch?</h2>
+
+    <hr>
+        <div class="contact-us">
+          <h2>Get In Touch</h2>
+          <h3>business inquiries:</h3>
+          <a class="btn" href="mailto:mythicalmirana@gmail.com">CONTACT US</a>
+        </div>
+
+        <hr>
+    <div class="bottom-container">
+        <!-- <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/">Twitter</a>
+        <a class="footer-link" href="https://www.appbrewery.co/">Website</a> -->
+        <p>© 2022 Mythical Mirana Webshop</p>
+      </div>
+</body>
+</html>
+
+<!-- building the site -->
