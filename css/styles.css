@@ -1,0 +1,36 @@
+body{
+    background-color: #810CA8;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Corinthia', cursive;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.bottom-container{
+    background-color: #2D033B;
+    color: #E5B8F4;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.heading{
+    background-color: #2D033B;
+    color: #E5B8F4;
+    font-size: 2em;
+}
